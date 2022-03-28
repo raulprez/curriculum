@@ -53,6 +53,7 @@ Google has updated some of the required sections in the below tutorials and some
 This section contains helpful links to other content. It isn't required, so consider it supplemental.
 
 1. Learn 14 tips and tricks in this [JavaScript 30 Video](https://www.youtube.com/watch?v=xkzDaKwinA8) by Wes Bos
+2. Debugging JavaScript [Chrome DevTools 101 ](https://www.youtube.com/watch?v=H0XScE08hy8) by Google Chrome Developers
 
 ### Knowledge Check 
 This section contains questions for you to check your understanding of this lesson. If you’re having trouble answering the questions below on your own, review the material above to find the answer.
